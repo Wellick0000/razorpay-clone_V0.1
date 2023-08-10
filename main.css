@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* path{
+    fill: none;
+    stroke: black;
+    pointer-events: all;
+}
+path:hover{
+    box-shadow: 1px 1px 12px black;
+    background-color: black;
+} */
+/* a .ssvg:hover{
+    background-color: black;
+}
+.ssvg{
+    height: 20px;
+    width: 20px;
+    display: inline;
+} */
+/* .circle-img:hover{
+    background-color: black;
+
+} */
+
+/* not worked */
